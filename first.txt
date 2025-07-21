@@ -1,1 +1,24 @@
 Welcome to Git Lecture.
+
+-> check version
+git -v
+
+-> git push step
+1. git init
+2. git status
+3. git add .
+4. git commit -m "message"
+5. git remote add origin _URL_
+6. git push origin master
+
+-> git clone
+git clone _URL_
+
+. production
+. developing
+
+branch
+local -> pc
+remote -> github
+
+default -> master branch
